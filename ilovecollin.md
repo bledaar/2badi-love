@@ -1,4 +1,4 @@
-ik hou echt niet van colin
+ik hou echt niet van colin, hij heeft een kleine piemel
 
 ```python
 while True:
