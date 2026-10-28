@@ -1,4 +1,4 @@
-ik hou echt van colin
+ik hou echt niet van colin
 
 ```python
 while True:
